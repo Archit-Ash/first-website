@@ -80,8 +80,8 @@ h2 {
   word-wrap: break-word;
 }
 .c1 {
-  height: 25vh;
-  width: 25vw;
+  height: 15%;
+  width: 30%;
 }
 .text2 {
   max-width: 20vw;
@@ -89,8 +89,8 @@ h2 {
   word-wrap: break-word;
 }
 .c2 {
-  height: 20vh;
-  width: 25vw;
+  height: 15%;
+  width: 30%;
   font-size: 1vw 0.25vh;
   word-wrap: break-word;
 }
@@ -100,15 +100,14 @@ h2 {
   word-wrap: break-word;
 }
 .c3 {
-  max-width: 20vw;
-  height: 25vh;
-  width: 25vw;
+  height: 15%;
+  width: 30%;
   font-size: 1vw 0.25vh;
   word-wrap: break-word;
 }
 .cert {
-  height: 90vh;
-  width: 70vw;
+  height: 40%;
+  width: 100%;
   margin: auto;
 }
 .bottom {
@@ -119,3 +118,4 @@ h2 {
 a {
   color: red;
 }
+
